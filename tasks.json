@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Open Calculator",
+    "type": "app",
+    "command": "calc",
+    "description": "Launch Windows Calculator",
+    "category": "System"
+  },
+  {
+    "id": "2",
+    "name": "Open Notepad",
+    "type": "app",
+    "command": "notepad",
+    "description": "Launch Notepad",
+    "category": "System"
+  },
+  {
+    "id": "3",
+    "name": "Google Search",
+    "type": "website",
+    "command": "https://www.google.com",
+    "description": "Open Google in browser",
+    "category": "Web"
+  },
+  {
+    "name": "Shows active network connections",
+    "type": "command",
+    "command": "netstat",
+    "id": "1757529086308"
+  },
+  {
+    "name": "Open my github",
+    "type": "website",
+    "command": "https://github.com/Alshaqsi136",
+    "id": "1757529179406"
+  },
+  {
+    "name": "run docker",
+    "type": "app",
+    "command": "E:\\Program Files\\Docker\\Docker\\Docker Desktop.exe",
+    "id": "1757529273784"
+  }
+]

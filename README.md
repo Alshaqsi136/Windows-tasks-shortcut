@@ -1,12 +1,13 @@
-# windows-tasks-shortcuts
+# Windows Tasks Shortcuts
 
-An Electron application with React
+An Electron application built with React that lets you create custom shortcuts for tasks, websites, and tools.
 
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-## Project Setup
+![Demo](Desktop.gif)
+
 
 ### Install
 
